@@ -22,47 +22,47 @@
             </div>
         </div>
         <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
+            <div class="overlay">
+                <span>Name: Chupapi Arts</span><br/>
+                <span>Quantity: 30</span><br/>
+                <span>Unit Price: Ksh. 7009</span><br>
+                <button class="remove">Remove</button>
+            </div>
         </div>
         <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
+            <div class="overlay">
+                <span>Name: Chupapi Arts</span><br/>
+                <span>Quantity: 30</span><br/>
+                <span>Unit Price: Ksh. 7009</span><br>
+                <button class="remove">Remove</button>
+            </div>
         </div>
         <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
+            <div class="overlay">
+                <span>Name: Chupapi Arts</span><br/>
+                <span>Quantity: 30</span><br/>
+                <span>Unit Price: Ksh. 7009</span><br>
+                <button class="remove">Remove</button>
+            </div>
         </div>
         <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
+            <div class="overlay">
+                <span>Name: Chupapi Arts</span><br/>
+                <span>Quantity: 30</span><br/>
+                <span>Unit Price: Ksh. 7009</span><br>
+                <button class="remove">Remove</button>
+            </div>
         </div>
         <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
+            <div class="overlay">
+                <span>Name: Chupapi Arts</span><br/>
+                <span>Quantity: 30</span><br/>
+                <span>Unit Price: Ksh. 7009</span><br>
+                <button class="remove">Remove</button>
+            </div>
         </div>
-        <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
         </div>
-        <div class="item">
-            <span>Name: Chupapi Arts</span><br/>
-            <span>Quantity: 30</span><br/>
-            <span>Unit Price: Ksh. 7009</span><br>
-            <button class="remove">Remove</button>
-        </div>
+
     </div>
     
 </body>

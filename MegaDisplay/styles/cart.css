@@ -28,7 +28,7 @@ body{
 .contents{
     width: 80%;
     margin: 10px auto;
-    background-color: rgb(75, 75, 2);
+    background-color: green;
     opacity: .8;
     border-radius: 10px;
     box-shadow: 4px -4px 5px black;
