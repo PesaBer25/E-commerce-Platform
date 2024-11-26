@@ -57,6 +57,6 @@ This is a lightweight e-commerce platform developed with a PHP-based backend and
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/e-commerce-platform.git
-cd e-commerce-platform
+git clone https://github.com/PesaBer25/E-commerce-Platform.git
+cd E-commerce-Platform
 ```
