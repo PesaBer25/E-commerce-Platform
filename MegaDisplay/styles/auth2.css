@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('../images/01.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+input{
+    border-radius: 5px;
+    padding: 3px;
+    border: .2px solid black;
+}
+input:active{
+    border: .2px solid red;
+}
+form{
+    color: white;
+    font-weight: bold;
+    width: 250px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 4px 5px black;
+    padding: 5px;
+    background-image: url('../images/03.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    opacity: .8;
+}
+
+h2 , .h{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    background-color: lightblue;
+    border-radius: 6px;
+
+}
+.btn{
+    padding: 4px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 15px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+.error{
+    font-size: 13px;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+@keyframes swing{
+    0%{transform: translateX(12px)}
+    25%{transform: translateX(-12px)}
+    50%{transform: translateX(12px)}
+    75%{transform: translateX(-12px)}
+    100%{transform: translateX(12px)}
+}
+
+.error2{
+    animation: linear .2s swing;
+}
+.black{
+    color: black;
+    font-size: large;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
